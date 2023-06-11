@@ -1,5 +1,5 @@
 const http = require("http");
-// console.log("-->", __filename);
+console.log("-->", __filename);
 // console.log("-->", __dirname);
 
 const PORT = 8080;
